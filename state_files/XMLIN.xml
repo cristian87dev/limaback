@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domos>
+  <dispo1>
+    <name>00100101A1</name>
+    <i1>0</i1>
+    <i2>1</i2>
+    <i3>1</i3>
+    <i4>0</i4>
+    <i5>1</i5>
+  </dispo1>
+  <dispo2>
+    <name>1110A10100</name>
+    <i1>0</i1>
+    <i2>1</i2>
+    <i3>0</i3>
+  </dispo2>
+</domos>
